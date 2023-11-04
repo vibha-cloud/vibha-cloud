@@ -1,4 +1,4 @@
-### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 ## 🌐 Socials:
