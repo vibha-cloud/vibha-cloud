@@ -1,5 +1,5 @@
 ### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <!-- <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> -->
 
