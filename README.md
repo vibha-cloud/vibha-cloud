@@ -15,9 +15,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=vibha-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibha-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vibha-cloud&theme=radical&hide_border=false)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user==vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vibha-cloud&theme=radical&hide_border=false)(https://git.io/streak-stats)<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user==vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
 
 
 ## 🏆 GitHub Trophies
