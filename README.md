@@ -12,11 +12,12 @@
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vibha-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- ![](https://github-readme-stats.vercel.app/api?username=vibha-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibha-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user==vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
 
