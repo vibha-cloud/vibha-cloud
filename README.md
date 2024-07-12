@@ -1,8 +1,6 @@
 ### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<!-- <img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> -->
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-chandola-4389a6276/) 
 <!-- [![LeetCode user vc_vibha23](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fvc_vibha23&logo=leetcode&logoColor=yellow)](https://leetcode.com/vc_vibha23/) -->
@@ -16,8 +14,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibha-cloud&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user==vibha-cloud&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
 
